@@ -28,3 +28,8 @@ const config = {
       value: "profile",
       url: "",
     },
+{
+      label: "contact",
+      value: "email",
+      url: "juliette.ferlin.doc@gmail.com",
+    },
