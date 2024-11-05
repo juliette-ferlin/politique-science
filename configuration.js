@@ -28,6 +28,11 @@ const config = {
       value: "profile",
       url: "",
     },
+    {
+      label: "linked in",
+      value: "profile",
+      url: "https://www.linkedin.com/in/juliette-ferlin-402665173",
+    },
 {
       label: "contact",
       value: "email",
