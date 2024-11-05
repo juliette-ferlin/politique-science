@@ -6,9 +6,9 @@ const config = {
         to the <a href="http://umr-lisis.fr/membre/" target="_blank">Laboratoire Interdisciplinaire
           Sciences Innovations Sociétés (LISIS)</a> 
           and is supervised by <a href="https://umr-lisis.fr/membre/francois-dedieu/" target="_blank"> 
-          François Dedieu 
+          François Dedieu </a> 
           and 
-          <a href="http://iris.ehess.fr/index.php?2984" target="_blank">Tristan Fournier.`,
+          <a href="http://iris.ehess.fr/index.php?2984" target="_blank">Tristan Fournier </a> .`,
       long: "",
     },
     FR: {
@@ -16,9 +16,9 @@ const config = {
       Elle est affiliée au <a href="http://umr-lisis.fr/membre/" target="_blank">Laboratoire Interdisciplinaire
           Sciences Innovations Sociétés (LISIS)</a> et est supervisée par 
           <a href="https://umr-lisis.fr/membre/francois-dedieu/" target="_blank"> 
-          François Dedieu 
+          François Dedieu </a> 
           et 
-          <a href="http://iris.ehess.fr/index.php?2984" target="_blank">Tristan Fournier.`,
+          <a href="http://iris.ehess.fr/index.php?2984" target="_blank">Tristan Fournier </a> .`,
       long: "",
     },
   },
