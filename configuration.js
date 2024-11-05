@@ -2,7 +2,7 @@ const config = {
   name: "Juliette Ferlin",
   description: {
     EN: {
-      short: `Juliette Ferlin has been completing a doctorate in sociology since November 2024. She is affiliated
+      short: `Juliette Ferlin is a doctoral student in sociology since November 2024. She is affiliated
         to the <a href="http://umr-lisis.fr/membre/" target="_blank">Laboratoire Interdisciplinaire
           Sciences Innovations Sociétés (LISIS)</a> 
           and is supervised by <a href="https://umr-lisis.fr/membre/francois-dedieu/" target="_blank"> 
