@@ -18,7 +18,7 @@ const config = {
           <a href="https://umr-lisis.fr/membre/francois-dedieu/" target="_blank"> 
           François Dedieu 
           et 
-          <a href="http://iris.ehess.fr/index.php?2984" target="_blank">Tristan Fournier.`
+          <a href="http://iris.ehess.fr/index.php?2984" target="_blank">Tristan Fournier.`,
       long: "",
     },
   },
@@ -33,3 +33,6 @@ const config = {
       value: "email",
       url: "juliette.ferlin.doc@gmail.com",
     },
+     ],
+  email: { name: "juliette.ferlin.doc", domain: "gmail.com" },
+};
